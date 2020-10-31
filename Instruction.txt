@@ -1,0 +1,1 @@
+Please use "npx ts-node src/index.ts" to run the script after npm install.
